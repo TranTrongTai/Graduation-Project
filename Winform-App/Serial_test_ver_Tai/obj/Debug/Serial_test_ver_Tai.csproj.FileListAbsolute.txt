@@ -1,0 +1,331 @@
+C:\Users\Tran Trong Tai\Desktop\Serial_test_ver_Tai\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csprojAssemblyReference.cache
+C:\Users\Tran Trong Tai\Desktop\Serial_test_ver_Tai\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.Form1.resources
+C:\Users\Tran Trong Tai\Desktop\Serial_test_ver_Tai\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.Properties.Resources.resources
+C:\Users\Tran Trong Tai\Desktop\Serial_test_ver_Tai\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.GenerateResource.cache
+C:\Users\Tran Trong Tai\Desktop\Serial_test_ver_Tai\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.CoreCompileInputs.cache
+C:\Users\Tran Trong Tai\Desktop\Serial_test_ver_Tai\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.exe.config
+C:\Users\Tran Trong Tai\Desktop\Serial_test_ver_Tai\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.exe
+C:\Users\Tran Trong Tai\Desktop\Serial_test_ver_Tai\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.pdb
+C:\Users\Tran Trong Tai\Desktop\Serial_test_ver_Tai\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.exe
+C:\Users\Tran Trong Tai\Desktop\Serial_test_ver_Tai\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.pdb
+C:\Users\trant\OneDrive\Desktop\15146247\LVTN- @@!\Serial_test_ver_Tai\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.exe.config
+C:\Users\trant\OneDrive\Desktop\15146247\LVTN- @@!\Serial_test_ver_Tai\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.exe
+C:\Users\trant\OneDrive\Desktop\15146247\LVTN- @@!\Serial_test_ver_Tai\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.pdb
+C:\Users\trant\OneDrive\Desktop\15146247\LVTN- @@!\Serial_test_ver_Tai\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csprojAssemblyReference.cache
+C:\Users\trant\OneDrive\Desktop\15146247\LVTN- @@!\Serial_test_ver_Tai\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.Form1.resources
+C:\Users\trant\OneDrive\Desktop\15146247\LVTN- @@!\Serial_test_ver_Tai\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.Properties.Resources.resources
+C:\Users\trant\OneDrive\Desktop\15146247\LVTN- @@!\Serial_test_ver_Tai\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.GenerateResource.cache
+C:\Users\trant\OneDrive\Desktop\15146247\LVTN- @@!\Serial_test_ver_Tai\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.CoreCompileInputs.cache
+C:\Users\trant\OneDrive\Desktop\15146247\LVTN- @@!\Serial_test_ver_Tai\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.exe
+C:\Users\trant\OneDrive\Desktop\15146247\LVTN- @@!\Serial_test_ver_Tai\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.pdb
+C:\Users\trant\OneDrive\Desktop\Serial_test_ver_Tai\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.exe.config
+C:\Users\trant\OneDrive\Desktop\Serial_test_ver_Tai\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.exe
+C:\Users\trant\OneDrive\Desktop\Serial_test_ver_Tai\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.pdb
+C:\Users\trant\OneDrive\Desktop\Serial_test_ver_Tai\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.Form1.resources
+C:\Users\trant\OneDrive\Desktop\Serial_test_ver_Tai\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.Properties.Resources.resources
+C:\Users\trant\OneDrive\Desktop\Serial_test_ver_Tai\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.GenerateResource.cache
+C:\Users\trant\OneDrive\Desktop\Serial_test_ver_Tai\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.CoreCompileInputs.cache
+C:\Users\trant\OneDrive\Desktop\Serial_test_ver_Tai\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.exe
+C:\Users\trant\OneDrive\Desktop\Serial_test_ver_Tai\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.pdb
+C:\Users\trant\OneDrive\Desktop\Serial_test_ver_Tai-ver-receive-gps-map\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.exe.config
+C:\Users\trant\OneDrive\Desktop\Serial_test_ver_Tai-ver-receive-gps-map\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.exe
+C:\Users\trant\OneDrive\Desktop\Serial_test_ver_Tai-ver-receive-gps-map\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.pdb
+C:\Users\trant\OneDrive\Desktop\Serial_test_ver_Tai-ver-receive-gps-map\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csprojAssemblyReference.cache
+C:\Users\trant\OneDrive\Desktop\Serial_test_ver_Tai-ver-receive-gps-map\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.Form1.resources
+C:\Users\trant\OneDrive\Desktop\Serial_test_ver_Tai-ver-receive-gps-map\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.Properties.Resources.resources
+C:\Users\trant\OneDrive\Desktop\Serial_test_ver_Tai-ver-receive-gps-map\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.GenerateResource.cache
+C:\Users\trant\OneDrive\Desktop\Serial_test_ver_Tai-ver-receive-gps-map\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.CoreCompileInputs.cache
+C:\Users\trant\OneDrive\Desktop\Serial_test_ver_Tai-ver-receive-gps-map\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.exe
+C:\Users\trant\OneDrive\Desktop\Serial_test_ver_Tai-ver-receive-gps-map\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.pdb
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver2\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.exe
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver2\Serial_test_ver_Tai\bin\Debug\GMap.NET.Core.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver2\Serial_test_ver_Tai\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver2\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver2\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.exe.config
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver2\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.pdb
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver2\Serial_test_ver_Tai\bin\Debug\EntityFramework.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver2\Serial_test_ver_Tai\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver2\Serial_test_ver_Tai\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver2\Serial_test_ver_Tai\bin\Debug\Newtonsoft.Json.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver2\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver2\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver2\Serial_test_ver_Tai\bin\Debug\EntityFramework.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver2\Serial_test_ver_Tai\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver2\Serial_test_ver_Tai\bin\Debug\Newtonsoft.Json.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver2\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver2\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver2\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.Form1.resources
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver2\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.Properties.Resources.resources
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver2\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.GenerateResource.cache
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver2\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.CoreCompileInputs.cache
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver2\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.CopyComplete
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver2\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.exe
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver2\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.pdb
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.exe.config
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.exe
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.pdb
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3\Serial_test_ver_Tai\bin\Debug\EntityFramework.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3\Serial_test_ver_Tai\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3\Serial_test_ver_Tai\bin\Debug\GMap.NET.Core.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3\Serial_test_ver_Tai\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3\Serial_test_ver_Tai\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3\Serial_test_ver_Tai\bin\Debug\Newtonsoft.Json.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3\Serial_test_ver_Tai\bin\Debug\EntityFramework.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3\Serial_test_ver_Tai\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3\Serial_test_ver_Tai\bin\Debug\Newtonsoft.Json.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.Form1.resources
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.Properties.Resources.resources
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.GenerateResource.cache
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.CoreCompileInputs.cache
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.CopyComplete
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.exe
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.pdb
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3 - Copy\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.exe
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3 - Copy\Serial_test_ver_Tai\bin\Debug\GMap.NET.Core.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3 - Copy\Serial_test_ver_Tai\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3 - Copy\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3 - Copy\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.exe.config
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3 - Copy\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.pdb
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3 - Copy\Serial_test_ver_Tai\bin\Debug\EntityFramework.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3 - Copy\Serial_test_ver_Tai\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3 - Copy\Serial_test_ver_Tai\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3 - Copy\Serial_test_ver_Tai\bin\Debug\Newtonsoft.Json.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3 - Copy\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3 - Copy\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3 - Copy\Serial_test_ver_Tai\bin\Debug\EntityFramework.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3 - Copy\Serial_test_ver_Tai\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3 - Copy\Serial_test_ver_Tai\bin\Debug\Newtonsoft.Json.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3 - Copy\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3 - Copy\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3 - Copy\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.Form1.resources
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3 - Copy\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.Properties.Resources.resources
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3 - Copy\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.GenerateResource.cache
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3 - Copy\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.CoreCompileInputs.cache
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3 - Copy\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.CopyComplete
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3 - Copy\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.exe
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver3 - Copy\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.pdb
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.exe
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4\Serial_test_ver_Tai\bin\Debug\GMap.NET.Core.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4\Serial_test_ver_Tai\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.exe.config
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.pdb
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4\Serial_test_ver_Tai\bin\Debug\EntityFramework.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4\Serial_test_ver_Tai\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4\Serial_test_ver_Tai\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4\Serial_test_ver_Tai\bin\Debug\Newtonsoft.Json.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4\Serial_test_ver_Tai\bin\Debug\EntityFramework.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4\Serial_test_ver_Tai\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4\Serial_test_ver_Tai\bin\Debug\Newtonsoft.Json.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.Form1.resources
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.Properties.Resources.resources
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.GenerateResource.cache
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.CoreCompileInputs.cache
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.CopyComplete
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.exe
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.pdb
+F:\15146247-LVTN\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.exe.config
+F:\15146247-LVTN\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.exe
+F:\15146247-LVTN\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.pdb
+F:\15146247-LVTN\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\bin\Debug\EntityFramework.dll
+F:\15146247-LVTN\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\bin\Debug\EntityFramework.SqlServer.dll
+F:\15146247-LVTN\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\bin\Debug\GMap.NET.Core.dll
+F:\15146247-LVTN\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\bin\Debug\GMap.NET.WindowsForms.dll
+F:\15146247-LVTN\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\bin\Debug\GMap.NET.WindowsPresentation.dll
+F:\15146247-LVTN\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\bin\Debug\Newtonsoft.Json.dll
+F:\15146247-LVTN\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.dll
+F:\15146247-LVTN\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.EF6.dll
+F:\15146247-LVTN\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.Linq.dll
+F:\15146247-LVTN\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\bin\Debug\EntityFramework.xml
+F:\15146247-LVTN\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\bin\Debug\EntityFramework.SqlServer.xml
+F:\15146247-LVTN\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\bin\Debug\Newtonsoft.Json.xml
+F:\15146247-LVTN\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.xml
+F:\15146247-LVTN\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.dll.config
+F:\15146247-LVTN\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.Form1.resources
+F:\15146247-LVTN\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.Properties.Resources.resources
+F:\15146247-LVTN\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.GenerateResource.cache
+F:\15146247-LVTN\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.CoreCompileInputs.cache
+F:\15146247-LVTN\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.CopyComplete
+F:\15146247-LVTN\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.exe
+F:\15146247-LVTN\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.pdb
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.exe.config
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.exe
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.pdb
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\bin\Debug\EntityFramework.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\bin\Debug\GMap.NET.Core.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\bin\Debug\Newtonsoft.Json.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\bin\Debug\EntityFramework.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\bin\Debug\Newtonsoft.Json.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.Form1.resources
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.Properties.Resources.resources
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.GenerateResource.cache
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.CoreCompileInputs.cache
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.CopyComplete
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.exe
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.pdb
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2)\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csprojAssemblyReference.cache
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2) - Copy\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.exe.config
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2) - Copy\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.exe
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2) - Copy\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.pdb
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2) - Copy\Serial_test_ver_Tai\bin\Debug\EntityFramework.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2) - Copy\Serial_test_ver_Tai\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2) - Copy\Serial_test_ver_Tai\bin\Debug\GMap.NET.Core.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2) - Copy\Serial_test_ver_Tai\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2) - Copy\Serial_test_ver_Tai\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2) - Copy\Serial_test_ver_Tai\bin\Debug\Newtonsoft.Json.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2) - Copy\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2) - Copy\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2) - Copy\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2) - Copy\Serial_test_ver_Tai\bin\Debug\EntityFramework.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2) - Copy\Serial_test_ver_Tai\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2) - Copy\Serial_test_ver_Tai\bin\Debug\Newtonsoft.Json.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2) - Copy\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2) - Copy\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2) - Copy\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.Form1.resources
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2) - Copy\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.Properties.Resources.resources
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2) - Copy\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.GenerateResource.cache
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2) - Copy\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.CoreCompileInputs.cache
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2) - Copy\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.CopyComplete
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2) - Copy\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.exe
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - Copy (2) - Copy\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.pdb
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update-\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.exe.config
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update-\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.exe
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update-\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.pdb
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update-\Serial_test_ver_Tai\bin\Debug\EntityFramework.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update-\Serial_test_ver_Tai\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update-\Serial_test_ver_Tai\bin\Debug\GMap.NET.Core.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update-\Serial_test_ver_Tai\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update-\Serial_test_ver_Tai\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update-\Serial_test_ver_Tai\bin\Debug\Newtonsoft.Json.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update-\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update-\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update-\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update-\Serial_test_ver_Tai\bin\Debug\EntityFramework.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update-\Serial_test_ver_Tai\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update-\Serial_test_ver_Tai\bin\Debug\Newtonsoft.Json.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update-\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update-\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update-\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.Form1.resources
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update-\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.Properties.Resources.resources
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update-\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.GenerateResource.cache
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update-\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.CoreCompileInputs.cache
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update-\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.CopyComplete
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update-\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.exe
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update-\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.pdb
+C:\Users\trant\OneDrive\Desktop\update-3\edit-C#-ver4 - update- - Copy\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.exe.config
+C:\Users\trant\OneDrive\Desktop\update-3\edit-C#-ver4 - update- - Copy\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.exe
+C:\Users\trant\OneDrive\Desktop\update-3\edit-C#-ver4 - update- - Copy\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.pdb
+C:\Users\trant\OneDrive\Desktop\update-3\edit-C#-ver4 - update- - Copy\Serial_test_ver_Tai\bin\Debug\EntityFramework.dll
+C:\Users\trant\OneDrive\Desktop\update-3\edit-C#-ver4 - update- - Copy\Serial_test_ver_Tai\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\trant\OneDrive\Desktop\update-3\edit-C#-ver4 - update- - Copy\Serial_test_ver_Tai\bin\Debug\GMap.NET.Core.dll
+C:\Users\trant\OneDrive\Desktop\update-3\edit-C#-ver4 - update- - Copy\Serial_test_ver_Tai\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\trant\OneDrive\Desktop\update-3\edit-C#-ver4 - update- - Copy\Serial_test_ver_Tai\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\trant\OneDrive\Desktop\update-3\edit-C#-ver4 - update- - Copy\Serial_test_ver_Tai\bin\Debug\Newtonsoft.Json.dll
+C:\Users\trant\OneDrive\Desktop\update-3\edit-C#-ver4 - update- - Copy\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.dll
+C:\Users\trant\OneDrive\Desktop\update-3\edit-C#-ver4 - update- - Copy\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\trant\OneDrive\Desktop\update-3\edit-C#-ver4 - update- - Copy\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\trant\OneDrive\Desktop\update-3\edit-C#-ver4 - update- - Copy\Serial_test_ver_Tai\bin\Debug\EntityFramework.xml
+C:\Users\trant\OneDrive\Desktop\update-3\edit-C#-ver4 - update- - Copy\Serial_test_ver_Tai\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\trant\OneDrive\Desktop\update-3\edit-C#-ver4 - update- - Copy\Serial_test_ver_Tai\bin\Debug\Newtonsoft.Json.xml
+C:\Users\trant\OneDrive\Desktop\update-3\edit-C#-ver4 - update- - Copy\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.xml
+C:\Users\trant\OneDrive\Desktop\update-3\edit-C#-ver4 - update- - Copy\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\trant\OneDrive\Desktop\update-3\edit-C#-ver4 - update- - Copy\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csprojAssemblyReference.cache
+C:\Users\trant\OneDrive\Desktop\update-3\edit-C#-ver4 - update- - Copy\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.Form1.resources
+C:\Users\trant\OneDrive\Desktop\update-3\edit-C#-ver4 - update- - Copy\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.Properties.Resources.resources
+C:\Users\trant\OneDrive\Desktop\update-3\edit-C#-ver4 - update- - Copy\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.GenerateResource.cache
+C:\Users\trant\OneDrive\Desktop\update-3\edit-C#-ver4 - update- - Copy\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.CoreCompileInputs.cache
+C:\Users\trant\OneDrive\Desktop\update-3\edit-C#-ver4 - update- - Copy\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.CopyComplete
+C:\Users\trant\OneDrive\Desktop\update-3\edit-C#-ver4 - update- - Copy\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.exe
+C:\Users\trant\OneDrive\Desktop\update-3\edit-C#-ver4 - update- - Copy\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.pdb
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- -\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.Form1.resources
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- -\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.Properties.Resources.resources
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- -\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.GenerateResource.cache
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- -\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.CoreCompileInputs.cache
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- -\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.exe
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- -\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.pdb
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- -\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.exe.config
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- -\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.exe
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- -\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.pdb
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- -\Serial_test_ver_Tai\bin\Debug\EntityFramework.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- -\Serial_test_ver_Tai\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- -\Serial_test_ver_Tai\bin\Debug\GMap.NET.Core.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- -\Serial_test_ver_Tai\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- -\Serial_test_ver_Tai\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- -\Serial_test_ver_Tai\bin\Debug\Newtonsoft.Json.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- -\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- -\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- -\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- -\Serial_test_ver_Tai\bin\Debug\EntityFramework.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- -\Serial_test_ver_Tai\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- -\Serial_test_ver_Tai\bin\Debug\Newtonsoft.Json.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- -\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- -\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- -\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.CopyComplete
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.exe.config
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.exe
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.pdb
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\bin\Debug\EntityFramework.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\bin\Debug\GMap.NET.Core.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\bin\Debug\Newtonsoft.Json.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\bin\Debug\EntityFramework.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\bin\Debug\Newtonsoft.Json.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.xml
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.Form1.resources
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.Properties.Resources.resources
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.GenerateResource.cache
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.CoreCompileInputs.cache
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.CopyComplete
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.exe
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.pdb
+C:\Users\trant\OneDrive\Desktop\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csprojAssemblyReference.cache
+E:\7-Đồ_án_15146247\LVTN-AGV\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.exe.config
+E:\7-Đồ_án_15146247\LVTN-AGV\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.exe
+E:\7-Đồ_án_15146247\LVTN-AGV\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\bin\Debug\Serial_test_ver_Tai.pdb
+E:\7-Đồ_án_15146247\LVTN-AGV\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\bin\Debug\EntityFramework.dll
+E:\7-Đồ_án_15146247\LVTN-AGV\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\bin\Debug\EntityFramework.SqlServer.dll
+E:\7-Đồ_án_15146247\LVTN-AGV\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\bin\Debug\GMap.NET.Core.dll
+E:\7-Đồ_án_15146247\LVTN-AGV\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\bin\Debug\GMap.NET.WindowsForms.dll
+E:\7-Đồ_án_15146247\LVTN-AGV\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\bin\Debug\GMap.NET.WindowsPresentation.dll
+E:\7-Đồ_án_15146247\LVTN-AGV\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\bin\Debug\Newtonsoft.Json.dll
+E:\7-Đồ_án_15146247\LVTN-AGV\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.dll
+E:\7-Đồ_án_15146247\LVTN-AGV\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.EF6.dll
+E:\7-Đồ_án_15146247\LVTN-AGV\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.Linq.dll
+E:\7-Đồ_án_15146247\LVTN-AGV\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\bin\Debug\EntityFramework.xml
+E:\7-Đồ_án_15146247\LVTN-AGV\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\bin\Debug\EntityFramework.SqlServer.xml
+E:\7-Đồ_án_15146247\LVTN-AGV\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\bin\Debug\Newtonsoft.Json.xml
+E:\7-Đồ_án_15146247\LVTN-AGV\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.xml
+E:\7-Đồ_án_15146247\LVTN-AGV\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\bin\Debug\System.Data.SQLite.dll.config
+E:\7-Đồ_án_15146247\LVTN-AGV\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csprojAssemblyReference.cache
+E:\7-Đồ_án_15146247\LVTN-AGV\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.Form1.resources
+E:\7-Đồ_án_15146247\LVTN-AGV\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.Properties.Resources.resources
+E:\7-Đồ_án_15146247\LVTN-AGV\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.GenerateResource.cache
+E:\7-Đồ_án_15146247\LVTN-AGV\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.CoreCompileInputs.cache
+E:\7-Đồ_án_15146247\LVTN-AGV\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.csproj.CopyComplete
+E:\7-Đồ_án_15146247\LVTN-AGV\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.exe
+E:\7-Đồ_án_15146247\LVTN-AGV\edit-C#-ver4 - update- - - 2\Serial_test_ver_Tai\obj\Debug\Serial_test_ver_Tai.pdb
